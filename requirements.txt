@@ -1,0 +1,9 @@
+networkx
+matplotlib
+seaborn
+numpy
+pandas
+scipy
+jupyter
+ipykernel
+powerlaw
